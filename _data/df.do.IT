@@ -1,10 +1,10 @@
 objectid,filename,format,medium,title,creator,date_acquired,description,acquisition_type,physical_location,notes
-df.do.1,df.do.1,image/jpeg,print,Unknown Pittsburgh Street,Calvin Lynch,c. 2021,colorized scene of an unknown Pittsburgh street.,collected,Bedroom Wall,acquired from the Heinz History Center
+df.do.1,df.do.1.jpg,image/jpeg,print,Unknown Pittsburgh Street,Calvin Lynch,c. 2021,colorized scene of an unknown Pittsburgh street.,collected,Bedroom Wall,acquired from the Heinz History Center
 df.do.2,df.do.2,record,print,Island Funeral,N.C. Wyeth,c. 2023,Scene depicting a procession of people towards a building on an island.,bought,Bedroom Wall,Bought at the Brandywine River Art Museum
-df.do.3,df.do.3,image/jpeg,"Metal, wood",Grandma's Rosary,unknown,c. 1925,Dark colored rosary,gifted,Bedroom Wall,"Gifted from collectors grandmother. Rosary was previously owned by great-grandmother, originally acquired in Staten Island, NY. Gifted to collector in Philadelphia PA from Grammy. Rosary was in a box with a pearl necklance, a broach, a large pendant necklace, and earrings."
+df.do.3,df.do.3.jpg,image/jpeg,"Metal, wood",Grandma's Rosary,unknown,c. 1925,Dark colored rosary,gifted,Bedroom Wall,"Gifted from collectors grandmother. Rosary was previously owned by great-grandmother, originally acquired in Staten Island, NY. Gifted to collector in Philadelphia PA from Grammy. Rosary was in a box with a pearl necklance, a broach, a large pendant necklace, and earrings."
 df.do.4,df.do.4,record,print,"Major's Pride, New York State Peaches",unknown,2024,advertisement for NY Peaches with image of boy riding a horse,bought,Bedroom Wall,"Bought at the West Chester antique mall, PA. "
 df.do.5,df.do.5,record,print,Racehorse,Calvin Lynch,c. 2021,colorful image of jockey on a blue horse with mask,collected,Bedroom Wall,acquired from the Heinz History Center
-df.do.6,df.do.6,image/jpeg,acrylic on wood,Madonna and Child,unknown,c. 2019,Image of the virgin mary holding a child with a gold border. Norman window shape hung to wall by a thin gold string.,bought,Bedroom Wall,"Bought in the Berkley Springs Antique Mall, Berkley Springs, WV. "
+df.do.6,df.do.6.jpg,image/jpeg,acrylic on wood,Madonna and Child,unknown,c. 2019,Image of the virgin mary holding a child with a gold border. Norman window shape hung to wall by a thin gold string.,bought,Bedroom Wall,"Bought in the Berkley Springs Antique Mall, Berkley Springs, WV. "
 df.do.7,df.do.7,record,embroidery,Jeanette's Sacred Heart,Unknown,"created c. 1952;
 2022",Framed embroidery of a sacred heart.,gifted,Bedroom Wall,gift from mom.
 df.do.8,df.do.8,record,Postcard,Woman Holding Fire,unknown,2024,"Small postcard of a woman holding a flame, came with another print from same artist. ",bought,Bedroom Wall,"Bought at a gallery in Davis, WV."
@@ -17,7 +17,7 @@ df.do.12,df.do.12,record,"Print, digital illustration",Happy Shoppers,Holly Warb
 df.do.13.a - b,df.do.13.a - b,record,Collage,The River Series,unknown,c. 2019,"Series of images all afixed to a black board, various scenes depicted.",gifted,Bedroom Wall,Gift from Gwendolyn and Sonny
 df.do.13.a,df.do.13.a,record,Collage,The Fisherman,unknown,c. 2019,"Bearded man wearing hat in foreground, river in background.",gifted,Bedroom Wall,Gift from Gwendolyn and Sonny
 df.do.13.b,df.do.13.b,record,Collage,"Untitled, The River Series",unknown,c. 2019,Two figures standing by a river,gifted,Underneath Little Table,"Gift from Gwendolyn and Sonny. Figure image fell off the board, is located in bedroom closet. "
-df.do.14,df.do.14,image/jpeg,Print,Johnny and June 1969,unknown,"Created 1969;
+df.do.14,df.do.14.jpg,image/jpeg,Print,Johnny and June 1969,unknown,"Created 1969;
 2024",Portrait of Johnny Cash and June Carter.,bought,Bedroom Wall,"Bought at the Johnny Cash Museum, Nashville, TN. Frame is HHC collected, has sticker with names stuck on front. "
 df.do.15,df.do.15,record,Digital print,Les Fleur Cat,"Jean Mansel, Maddi F.","Created c. 1460;
 2022",Focused image of a cat from a french medieval manuscript.,gifted,Bedroom Wall,Gifted from Maddi F. Gift came with four coasters also with images of medieval cats.
