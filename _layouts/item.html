@@ -25,7 +25,15 @@ gallery: true
         </div>
         <div class="col-12 col-md-10">
             <div id="item-metadata">
-            </div>
+            <div class="item-metadata">
+                  <p><strong>Creator:</strong> {{ page.creator }}</p>
+                  <p><strong>Date Acquired:</strong> {{ page.date_acquired }}</p>
+                  <p><strong>Description:</strong> {{ page.description }}</p>
+                  <p><strong>Medium:</strong> {{ page.medium }}</p>
+                  <p><strong>Acquisition Type:</strong> {{ page.acquisition_type }}</p>
+                  <p><strong>Physical Location:</strong> {{ page.physical_location }}</p>
+                  <p><strong>Notes:</strong> {{ page.notes }}</p>
+</div>
         </div> 
     </div>
 
